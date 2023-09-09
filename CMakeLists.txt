@@ -3,5 +3,4 @@ project(Cpp_Design_Patterns)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Cpp_Design_Patterns
-        SOLID-Design-Principals/SingleResponsibilityPrincipal.cpp)
+add_executable(Cpp_Design_Patterns)
